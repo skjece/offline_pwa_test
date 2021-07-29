@@ -770,6 +770,7 @@
                     // Before returning it, check whether it failed with a 404 status. This would signify an
                     // unrecoverable state.
                     if (!response.ok && (response.status === 404)) {
+                        console.log(`Failed to retrieve hashed resource from the server. (AssetGroup: ${this.config.name} | URL: ${url})`);
                         throw new SwUnrecoverableStateError(`Failed to retrieve hashed resource from the server. (AssetGroup: ${this.config.name} | URL: ${url})`);
                     }
                     // Return the response (successful or unsuccessful).
