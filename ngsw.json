@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.485de7131d7e5dda32c6.js",
-        "/manifest.webmanifest",
-        "/polyfills.94daefd414b8355106ab.js",
-        "/runtime.7b63b9fd40098a2e8207.js",
-        "/styles.09e2c710755c8867a460.css"
+        "/offline_pwa_test/favicon.ico",
+        "/offline_pwa_test/index.html",
+        "/offline_pwa_test/main.485de7131d7e5dda32c6.js",
+        "/offline_pwa_test/manifest.webmanifest",
+        "/offline_pwa_test/polyfills.94daefd414b8355106ab.js",
+        "/offline_pwa_test/runtime.7b63b9fd40098a2e8207.js",
+        "/offline_pwa_test/styles.09e2c710755c8867a460.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/offline_pwa_test/assets/icons/icon-128x128.png",
+        "/offline_pwa_test/assets/icons/icon-144x144.png",
+        "/offline_pwa_test/assets/icons/icon-152x152.png",
+        "/offline_pwa_test/assets/icons/icon-192x192.png",
+        "/offline_pwa_test/assets/icons/icon-384x384.png",
+        "/offline_pwa_test/assets/icons/icon-512x512.png",
+        "/offline_pwa_test/assets/icons/icon-72x72.png",
+        "/offline_pwa_test/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "3c32dcaeceea1ce0e65b98aebd489f6c9b29295a",
-    "/main.485de7131d7e5dda32c6.js": "f10420cff9af72cabfac15ae07a1b36882e8056c",
-    "/manifest.webmanifest": "c48f7dfa8e1b2128d72fcbe96eda8e73da376a1b",
-    "/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/offline_pwa_test/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/offline_pwa_test/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/offline_pwa_test/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/offline_pwa_test/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/offline_pwa_test/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/offline_pwa_test/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/offline_pwa_test/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/offline_pwa_test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/offline_pwa_test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/offline_pwa_test/index.html": "3c32dcaeceea1ce0e65b98aebd489f6c9b29295a",
+    "/offline_pwa_test/main.485de7131d7e5dda32c6.js": "f10420cff9af72cabfac15ae07a1b36882e8056c",
+    "/offline_pwa_test/manifest.webmanifest": "c48f7dfa8e1b2128d72fcbe96eda8e73da376a1b",
+    "/offline_pwa_test/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/offline_pwa_test/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/offline_pwa_test/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
