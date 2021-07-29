@@ -760,7 +760,7 @@
                             // If the cache-busted version doesn't match, then the manifest is not an accurate
                             // representation of the server's current set of files, and the SW should give up.
                             // if (canonicalHash !== cacheBustedHash) {
-                            if(false){}
+                            if(false){
                                 throw new SwCriticalError(`Hash mismatch (cacheBustedFetchFromNetwork): ${req.url}: expected ${canonicalHash}, got ${cacheBustedHash} (after cache busting)`);
                             }
                         }
